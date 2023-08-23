@@ -1,0 +1,60 @@
+---
+title: "Hands on programming with R Activity in secmath17"
+author: "Michael Jaymar Cabbigat"
+format: html
+editor: visual
+---
+
+# Chapter 1 The Very Basics
+
+```{r}
+3+4
+```
+
+```{r}
+12:100
+```
+
+```{r}
+2*4
+2+5
+9^7
+```
+
+```{r}
+1:7
+```
+
+```{r}
+a <- 1
+a
+```
+
+```{r}
+a+2
+```
+
+## Creating a Die 
+
+```{r}
+die <-1:6
+```
+
+```{r}
+b<-
+```
+
+```{r}
+die /2
+```
+
+```{r}
+die*die
+```
+
+```{}
+```
+
+```{r}
+abc<-1:5
+```
