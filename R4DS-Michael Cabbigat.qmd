@@ -1,0 +1,12 @@
+---
+title: "R for Data Science"
+author: "Michael Cabbigat"
+format: html
+editor: visual
+---
+
+# Introduction
+
+## What will you learn 
+
+Review the pipeline because sir will make it part of the exam![pipeline](r4dspics/r4dspic1.png)
