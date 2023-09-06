@@ -34,7 +34,7 @@ a
 a+2
 ```
 
-## Creating a Die 
+## Creating a Die
 
 ```{r}
 die <-1:6
@@ -52,7 +52,7 @@ die /2
 die*die
 ```
 
-```{}
+```         
 ```
 
 ```{r}
