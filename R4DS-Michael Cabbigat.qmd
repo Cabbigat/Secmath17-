@@ -13,7 +13,7 @@ Review the pipeline because sir will make it part of the exam![pipeline](r4dspic
 
 ## The Tidyverse
 
-To install the tidyverse package use the code `install.packages("tidyverse")`.
+To install the tidyverse package use the code: `install.packages("tidyverse")`.
 
 ```{r}
 # loading the tidyverse package
