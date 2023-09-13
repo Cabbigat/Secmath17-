@@ -13,9 +13,31 @@ Review the pipeline because sir will make it part of the exam![pipeline](r4dspic
 
 ## The Tidyverse
 
-To install the tidyverse package use the code: `install.packages("tidyverse")`.
+To install the tidyverse package use the code `install.packages("tidyverse")`
 
 ```{r}
 # loading the tidyverse package
 library(tidyverse)
 ```
+
+install.packages(
+
+We also installed other package by typing in the console the following code:
+
+[c](https://rdrr.io/r/base/c.html)`("arrow","babynames","curl","duckdb","gapminder","ggrepel","ggridges","ggthemes","hexbin","janitor","Lahman","leaflet","maps","nycflights13","openxlsx","palmerpenguins","repurrrsive","tidymodels","writexl"))`
+
+# Data Visualization
+
+::: callout-note
+## Reminder
+
+First load `tidyverse` package
+:::
+
+```{r}
+#|load-packages
+library(palmerpenguins)
+library(ggthemes)
+```
+
+## First Step
